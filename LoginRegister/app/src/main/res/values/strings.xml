@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id_google" />
+    <string name="facebook_app_id">720429888646543</string>
+    <string name="fb_login_protocol_scheme">fb720429888646543</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987960023112",
+    "project_id": "shetta-1200kd",
+    "storage_bucket": "shetta-1200kd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987960023112:android:f9d0c8956751169b05607d",
+        "android_client_info": {
+          "package_name": "com.kevalshetta.shetta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987960023112-9e7t345b9a83vnuoi0oqcu4nhn4h6tor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9xqhEFA9NG8_kackF55RG-ocSEf5mXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987960023112-9e7t345b9a83vnuoi0oqcu4nhn4h6tor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
